@@ -1,0 +1,247 @@
+[
+    {
+      "category": "commerce",
+      "projects":
+       [
+           {
+               "title": "making payments in a novel way",
+               "body": "",
+               "examples": [{"name": "head nodding - Alibaba", "link": "http://fortune.com/2016/10/12/alibaba-virtual-reality-payments/"}]
+           },
+           {
+               "title": "managing money",
+               "body": "",
+               "examples": [{"name": "", "link": ""}]
+           },
+           {
+               "title": "comparing similar products",
+               "body": "",
+               "examples": [{"name": "", "link": ""}]
+           },
+           {
+               "title": "personal vr stores",
+               "body": "Use machine learning to create intelligent and personalized VR stores.",
+               "examples": [{"name": "physical bookstore - Amazon", "link": "http://www.forbes.com/sites/robsalkowitz/2015/11/04/amazons-retail-store-has-nothing-to-do-with-selling-books/2/#27ece9a8708e"}]
+           }
+       ]
+    },
+    {
+      "category": "games",
+      "projects":
+       [
+           {
+               "title": "casual games",
+               "body": "Create a casual game for short play sessions. Mobile VR has yet to have its Candy Crush.",
+               "examples": [{"name": "", "link": ""}]
+           }
+       ]
+    },
+    {
+      "category": "healthcare",
+      "projects":
+       [
+           {
+               "title": "side effects",
+               "body": "Use VR videos to help doctors to explain the possible side effects of treatment.",
+               "examples": [{"name": "", "link": ""}]
+           },
+           {
+               "title": "indoor exercises",
+               "body": "VR headsets can help ceate fun indoor exercises to prevent ergonomics. We could even learn certain sports using VR headsets.",
+               "examples": [{"name": "", "link": ""}]
+           },
+           {
+               "title": "relaxing environment",
+               "body": "Create an enjoyable and relaxing environment for meditation, yoga, etc.",
+               "examples": [{"name": "", "link": ""}]
+           },
+           {
+               "title": "emergency situations",
+               "body": "Simulate emergency situations in surgeries to help young doctors get trained and to build up teamwok inside a medical team.",
+               "examples": [{"name": "", "link": ""}]
+           }
+       ]
+    },
+    {
+      "category": "education",
+      "projects":
+       [
+           {
+               "title": "power dynamic",
+               "body": "Develop an app that can support multiple users and simulate a teacher/student power dynamic. For example, let only the teacher write on a virtual chalkboard.",
+               "examples": [{"name": "", "link": ""}]
+           },
+           {
+               "title": "history",
+               "body": "Immerse yourself in a specific historical period.",
+               "examples": [{"name": "Arnswalde VR", "link": "https://www.wearvr.com/apps/arnswalde-vr"}]
+           },
+           {
+               "title": "visualize 3D models",
+               "body": "Visualize complex, 3D models from the outside and inside.",
+               "examples": [{"name": "human body cross-section", "link": "https://www.youtube.com/watch?v=-PVAcLlYUpg"}]
+           },
+           {
+               "title": "homework",
+               "body": "Hand in certain types of homework through VR. These could be presentations or interviews.",
+               "examples": [{"name": "", "link": ""}]
+           },
+           {
+               "title": "guest speakers",
+               "body": "Allow more virtual guest speakers and auditors in a class.",
+               "examples": [{"name": "", "link": ""}]
+           }
+       ]
+    },
+    {
+      "category": "live video/events/sports",
+      "projects":
+       [
+           {
+               "title": "real-time visualization",
+               "body": "Create a real-time visualization of sports games without live video and instead using live updated statistics or commentary.",
+               "examples": [{"name": "", "link": ""}]
+           },
+           {
+               "title": "discover 360 video livestreams",
+               "body": "",
+               "examples": [{"name": "", "link": ""}]
+           }
+       ]
+    },
+    {
+      "category": "design/engineering tools",
+      "projects":
+       [
+           {
+               "title": "architecture",
+               "body": "Be able to see a building's exterior, interior, or both. Change pieces in real time.",
+               "examples": [{"name": "", "link": ""}]
+           },
+           {
+               "title": "data visualization",
+               "body": "It's hard to find VR data visualizations that really utilize the medium well. In other words, we need more specific examples of data visualization that are improved by using VR over a 2D screen.",
+               "examples": [{"name": "", "link": ""}]
+           },
+           {
+               "title": "CAVE systems replacement",
+               "body": "",
+               "examples": [{"name": "", "link": ""}]
+           },
+           {
+               "title": "creative tools",
+               "body": "",
+               "examples": [{"name": "painting - Tilt Brush", "link": "https://www.tiltbrush.com/"}, {"name": "sculpting - Medium", "link": "https://www.oculus.com/medium/"}, {"name": "blocks - SculptrVR", "link": "http://www.sculptrvr.com/"}, {"name": "graffiti - Kingspray", "link": "http://infectiousape.com/"}, {"name": "music - SoundStage", "link": "http://www.soundstagevr.com/"}]
+           },
+           {
+               "title": "VR scenes",
+               "body": "Build and animate VR scenes in VR.",
+               "examples": [{"name": "Mindshow", "link": "http://uploadvr.com/mindshow-creation-tool/"}, {"name": "Tvori", "link": "http://uploadvr.com/tvori-animation-creation-software/"}, {"name": "Daydream Labs", "link": "http://mashable.com/2016/06/28/daydream-vr-animation/#I4g5ahNA6kqB"}, {"name": "VR editor - Unreal Engine", "link": "https://docs.unrealengine.com/latest/INT/Engine/Editor/VR/"}]
+           },
+           {
+               "title": "creation <> printing",
+               "body": "Combin 3D creation with 3D printing.",
+               "examples": [{"name": "3D paint - Microsoft", "link": "http://www.theverge.com/2016/10/26/13380524/microsoft-paint-app-announced-watch-release-date-watch-demo"}, {"name": "3D builder - Microsoft", "link": "https://developer.microsoft.com/en-us/windows/hardware/3d-print/3d-builder-resources"}]
+           }
+       ]
+    },
+    {
+      "category": "media/storytelling",
+      "projects":
+       [
+           {
+               "title": "high replayability",
+               "body": "Create very short experiences with high replayability (i.e. lots of stuff going on).",
+               "examples": [{"name": "Clash of Clans", "link": "https://www.youtube.com/watch?v=wczdECcwRw0"}]
+           },
+           {
+               "title": "advertising",
+               "body": "How can VR advetising be different, more impactful, and less intrusive than current ads?",
+               "examples": [{"name": "VirtualSKY", "link": "https://virtualsky.com/#ad-formats"}]
+           }
+       ]
+    },
+    {
+      "category": "military/simulation",
+      "projects":
+       [
+           {
+               "title": "advanced graphics",
+               "body": "Most VR experiences use either no physics or rigid objects only. Try an advanced graphics concept like fluids, hair, or cloth.",
+               "examples": [{"name": "NVIDIA VR funhouse", "link": "https://blogs.nvidia.com/blog/2016/05/06/vr-funhouse/"}]
+           },
+           {
+               "title": "dangerous missions",
+               "body": "VR glasses can help to identify objects and share views of different soldiers on particularly dangerous missions.",
+               "examples": [{"name": "", "link": ""}]
+           }
+       ]
+    },
+    {
+      "category": "social",
+      "projects":
+       [
+           {
+               "title": "chat",
+               "body": "",
+               "examples": [{"name": "Oculus avatars", "link": "http://www.theverge.com/2016/10/6/13177082/oculus-rift-avatars-vr-virtual-reality"}]
+           },
+           {
+               "title": "anxiety/autism",
+               "body": "Help those with anxiety and autism become more comfortable in social situations.",
+               "examples": [{"name": "eye contact conditioning", "link": "http://www2.cs.uh.edu/~gnawali/papers/eyecontact-mindcare2014.pdf"}]
+           },
+           {
+               "title": "business cards",
+               "body": "AR glasses with personal information can be used as business cards. It lets people build up information about their social network.",
+               "examples": [{"name": "", "link": ""}]
+           },
+           {
+               "title": "long-distance",
+               "body": "Allow people living far away to have VR chat. Make long distance relationships easier and help families gather together during the holidays.",
+               "examples": [{"name": "", "link": ""}]
+           }
+       ]
+    },
+    {
+      "category": "misc/experimental",
+      "projects":
+       [
+           {
+               "title": "locomotion",
+               "body": "Long-distance locomotion! Teleportation is the current de facto but it's cumbersome.",
+               "examples": [{"name": "", "link": ""}]
+           },
+           {
+               "title": "body",
+               "body": "Be able to visualize all or part of your body.",
+               "examples": [{"name": "", "link": ""}]
+           },
+           {
+               "title": "avoiding the uncanny valley",
+               "body": "VR comes with the concept of the uncanny valley, positing that near-replicas of human beings that aren't exact make some observers feel eerie or revolted. How can we revamp artificially intelligent avatars in VR to avoid this?",
+               "examples": [{"name": "eye movements - Coffee Without Words", "link": "https://www.youtube.com/watch?v=UtgzXCx2q_0"}]
+           },
+           {
+               "title": "eye-tracking",
+               "body": "Create a VR eye-tracking interface.",
+               "examples": [{"name": "", "link": ""}]
+           },
+           {
+               "title": "public space",
+               "body": "How can we make people feel more comfortable using VR in a public space (socially and safety-wise)?",
+               "examples": [{"name": "", "link": ""}]
+           },
+           {
+               "title": "voice recognition",
+               "body": "How might we improve VR environment interaction using voice recognition?",
+               "examples": [{"name": "", "link": ""}]
+           },
+           {
+               "title": "different sight",
+               "body": "What if, when you and a friend are both in the same VR space, you see different things?",
+               "examples": [{"name": "", "link": ""}]
+           }
+       ]
+    }
+]
