@@ -1,0 +1,235 @@
+[
+  {
+    "category": "teacher tools",
+    "projects": [
+      {
+        "title": "make curriculum planning easier",
+        "body": "With the advent of state education standards, Common Core, and other requirements it's hard to track what teachers need to be teaching. A common curriculum planning management platform can make that easier, allow administrators to track learning goals among teachers, improve teacher evaluation, and make teachers' lives easier!",
+        "examples": [
+          {
+            "name": "Chalk",
+            "link": "https://www1.chalk.com/"
+          }
+        ]
+      },
+      {
+        "title": "parent-teacher communication",
+        "body": "How can digital tools help parents and teachers communicate about student progress? There's huge opportunities for SMS and Internet technologies to create new avenues of communication, and to break down language and economic barriers to access.\nCan existing apps be made more accessible to folks who aren't Internet-connected, don't have smartphones, have lower levels of educational attainment than their children?",
+        "examples": [
+          {
+            "name": "Translate parent-teacher communication",
+            "link": "https://docs.google.com/document/d/1J01rMw1Doxac1hKpY9VYA_0SzLrE3C5vudER6U2idP8/edit"
+          },
+          {
+            "name": "Bloomz",
+            "link": "https://www.bloomz.net/"
+          },
+          {
+            "name": "Remind",
+            "link": "https://www.remind.com/"
+          }
+        ]
+      },
+      {
+        "title": "improve web presence",
+        "body": "Having online materials for courses is increasingly important. Most class and school websites still look pretty awful, since website-building technologies are inaccessible (unusable, expensive, unknown) to most educators."
+      }
+    ]
+  },
+  {
+    "category": "career skills",
+    "projects": [
+      {
+        "title": "connect low-income students to career mentorship",
+        "body": "Effectively connect low-income students to experienced mentors for career and college guidance.",
+        "examples": [
+          {
+            "name": "CareerVillage - NLP project",
+            "link": "https://docs.google.com/document/d/1IbScWnZWTxP15qCxn7J_lT7vbUawOrl9Bwbp7B7HPRk/edit"
+          }
+        ]
+      },
+      {
+        "title": "exploring career pathways",
+        "body": "Can we create more engaging and relevant ways for students to explore pathways? These tools can be specifically tailored with an eye towards female students, communities of color or low-income students who often don't see certain career pathways as accessible",
+        "examples": [
+          {
+            "name": "Careers With Code",
+            "link": "https://careerswithcode.com/"
+          }
+        ]
+      },
+      {
+        "title": "learn new skills",
+        "body": "Coding bootcamps are cropping up around the world, but are largely unavailable to the people who would benefit most from them. How can we make it easy, relevant, and fun for adults to learn new skills?",
+        "examples": [
+          {
+            "name": "No room for high school graduates at Siemens",
+            "link": "https://www.nytimes.com/2017/01/30/education/edlife/factory-workers-college-degree-apprenticeships.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "citizenship, civic engagement",
+    "projects": [
+      {
+        "title": "study for the citizenship test!",
+        "body": "Most US citizens can't pass the US citizenship test — fun fact! Many of the folks gunning for US citizenship don't have the resources (computers, Internet, time to take off work) to fully commit to studying for the test. How can we leverage technologies like SMS to make studying for the citizenship test fun and accessible?"
+      },
+      {
+        "title": "know your rights",
+        "body": "In the age of increasing crackdown on immigration, it's important for everyone to know their rights! Let's make that information easy to access to empower folks in interactions with law enforcement.",
+        "examples": [
+          {
+            "name": "What to do if immigration agents are at your door",
+            "link": "https://www.aclu.org/know-your-rights/what-do-if-immigration-agents-ice-are-your-door"
+          },
+          {
+            "name": "Flex Your Rights",
+            "link": "https://www.flexyourrights.org/"
+          },
+          {
+            "name": "What to do if you're stopped by the police",
+            "link": "https://www.aclu.org/know-your-rights/what-do-if-youre-stopped-police-immigration-agents-or-fbi"
+          }
+        ]
+      },
+      {
+        "title": "learn about politics and government",
+        "body": "We're hearing about things like senate confirmations, impeachment, privacy violations, and more every day. But how many of us actually understand it? Along with the hubbub around fake news, wouldn't it be dope if we were all more educated on how our government runs, the duties it's accountable to, the structures to make that happen, and the rights we're given?\nPromote civic engagement through civic education – maybe even blending current politics with information about government. Like School of Rock, but more continuous and better.",
+        "examples": [
+          {
+            "name": "State of Civic Education",
+            "link": "https://www.theatlantic.com/politics/archive/2016/04/civic-education-in-the-age-of-trump/477501/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "personalization",
+    "projects": [
+      {
+        "title": "learning styles",
+        "body": "There are some theories that different students just learn differently - visually, auditorily, kinesthetically, etc. Can we develop a prototype of a learning platform that would tailor to students' learning styles?",
+        "examples": [
+          {
+            "name": "Student Learning Styles & Their Implications for Teaching",
+            "link": "http://web.uri.edu/teach/files/Student-Learning-Styles-and-Their-Implications-for-Teaching.pdf"
+          }
+        ]
+      },
+      {
+        "title": "multilingual education",
+        "body": "The US education system is overwhelmingly English-centric. English as a second-language students are often lumped in with learning-disabled students when not speaking English is definitely not a learning disability. Are there ways to leverage technology to create more open, multilingual classrooms?",
+        "examples": [
+          {
+            "name": "Language Barrier Hinders Education",
+            "link": "http://nola14.nytimes-institute.com/2014/05/30/language-barrier-hinders-education/"
+          },
+          {
+            "name": "Tech and multilingualism",
+            "link": "https://news.microsoft.com/europe/2015/02/23/mind-your-languages-how-technology-is-enabling-multilingualism-in-europe/#sm.00000mjcfack14d5qz7z6qvgsnau2#USEXq0TGQ4gq5H1d.97"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "accessibility",
+    "projects": [
+      {
+        "title": "Internet access",
+        "body": "Many schools can't take advantage of new online tools like Khan Academy or Coursera due to bandwidth limitations at schools. Are there innovative ways to work around those issues in low-connectivity regions? Can we adapt content to be text-only, effectively compress video, or even teach with SMS?"
+      },
+      {
+        "title": "refugee education",
+        "body": "With the refugee crisis comes an ensuing refugee education crisis. What are ways technology can be used to bring content and make education accessible to refugees? How can we make the transition to education in a new country smoother?",
+        "examples": [
+          {
+            "name": "OpenIDEO Challenge",
+            "link": "http://www.openideorefugee-education.com/"
+          },
+          {
+            "name": "Why refugee education is a problem",
+            "link": "https://www.weforum.org/agenda/2016/05/why-refugee-education-is-a-problem-and-six-solutions/"
+          }
+        ]
+      },
+      {
+        "title": "prison education",
+        "body": "Studies have shown that access to education within prisons sharply reduces recidivism – but the process of receiving education while incarcerated remains incredibly challenging. Internet access is prohibited: how can we leverage existing technology providers within prisons to increase education access?",
+        "examples": [
+          {
+            "name": "Edovo",
+            "link": "https://edovo.com/"
+          },
+          {
+            "name": "Tech Education for Inmates",
+            "link": "https://www.theatlantic.com/video/index/505439/tech-education-prison/"
+          },
+          {
+            "name": "Scholars Behind Bars",
+            "link": "http://www.nybooks.com/articles/2017/02/23/scholars-behind-bars-college-prison/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "teaching new subjects",
+    "projects": [
+      {
+        "title": "empathy",
+        "body": "A lot of people are worried that technology is disconnecting us from humanity, making us less empathetic & in-touch with each other. How can we turn that around and build technology that teaches empathy? Are there ways to harness new technologies like wearables, VR, or even leverage the ubiquity of tech to make this more effective?"
+      },
+      {
+        "title": "mental health",
+        "body": "Many link the rise of social media and strong digital presences to a huge surge in anxiety and depression. Can technology become tools to teach about maintaining mental health?"
+      },
+      {
+        "title": "consent",
+        "body": "Rape culture is pervasive and devastating to people of all sexualities and gender orientations. Many people tie the lack of education around rape culture and consent as a central issue. Can you build tools and platforms that make these topics easier to bring into schools? Are there ways to build more universal ways to teach consent culture?"
+      },
+      {
+        "title": "creativity",
+        "body": "What are ways in which technology can unlock new pathways for creativity and expression?",
+        "examples": [
+          {
+            "name": "Is technology making us more creative?",
+            "link": "https://www.theguardian.com/media-network/2015/jun/18/technology-creative-creativity-web-content"
+          },
+          {
+            "name": "Ways to use technology to teach creativity",
+            "link": "https://www.tes.com/sponsored/ten-ways-use-tech-teach-creativity"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "language & literacy",
+    "projects": [
+      {
+        "title": "mobile apps for english literacy",
+        "body": "How can you build mobile apps to increase English fluency and literacy amongst students and adults?",
+        "examples": [
+          {
+            "name": "Quill",
+            "link": "http://www.quill.org"
+          }
+        ]
+      },
+      {
+        "title": "creative writing",
+        "body": "Are there ways to make creative writing an everyday part of people's lives with technology?"
+      },
+      {
+        "title": "in-person learning",
+        "body": "Many people want to learn second languages and live around tons of people who can help – native English-speakers, native Spanish-speakers, etc. Can we use technology to connect people to in-person language learning opportunities?"
+      }
+    ]
+  }
+]
